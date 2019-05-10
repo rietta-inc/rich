@@ -6,7 +6,7 @@ PATH
       kaminari
       mime-types
       rack-raw-upload
-      rails (>= 3.2.0)
+      rails (>= 4.2.0)
       sass-rails
 
 GEM
